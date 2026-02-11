@@ -2,7 +2,7 @@
 int main(){
    int n;
    
-    
+   #ssss
     do{
         printf("enter a number  :=");
          scanf("%d",&n);
@@ -19,4 +19,5 @@ int main(){
 
    return 0;
 }
+
 
